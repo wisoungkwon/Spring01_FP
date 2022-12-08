@@ -1,0 +1,58 @@
+body{
+    margin-top: 20px;
+    margin-left: 500px;
+}
+
+#main{
+    width: 1024px;
+    height: 950px;
+}
+
+#top{
+    width: 1024px;
+    height: 100px;
+    background-color: lightyellow;
+    border-radius: 20px;
+}
+
+#title{
+    float: left;
+    margin-top: 30px;
+    margin-left: 50px;
+    font-size: 25px;
+    float: left;
+}
+
+#neck{
+    width: 1024px;
+    height: 50px;
+    background-color: bisque;
+    float: left;
+    border-radius: 20px;
+}
+
+#neck div ul li{
+    display: inline;
+    margin-left: 65px;
+}
+
+#neck div ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+#neck div ul li a:hover{
+    background: grey;
+}
+
+#bottom{
+    width: 1024px;
+    height: 100px;
+    background-color: lemonchiffon;
+    float: left;
+}
+
+#bottom ul li{
+    display: inline;
+}
+
